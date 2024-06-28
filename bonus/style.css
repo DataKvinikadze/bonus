@@ -1,0 +1,13 @@
+.joke {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.joke-span {
+  display: block;
+  text-align: center;
+  padding: 100px 0px 100px 0px;
+}
